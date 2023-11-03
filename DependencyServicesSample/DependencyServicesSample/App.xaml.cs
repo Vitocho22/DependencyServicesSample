@@ -7,6 +7,7 @@ namespace DependencyServicesSample
     public partial class App : Application
     {
         public App()
+            //hola
         {
             InitializeComponent();
 
